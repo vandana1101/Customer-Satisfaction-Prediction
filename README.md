@@ -20,9 +20,9 @@ The best model — **LightGBM** — achieves **~95% test accuracy** and **~96% 5
 ```
 customer-support-satisfaction/
 │
-├── customer_support_realistic.csv   # Dataset (8,000 tickets, 18 features)
-├── Project02_GitHub.ipynb           # Main analysis notebook
-└── README.md                        # This file
+├── customerSupport_Tickets.csv                            # Dataset (8,000 tickets, 18 features)
+├── Customer_Satisfaction_Prediction_Model.ipynb           # Main analysis notebook
+└── README.md                                              # This file
 ```
 
 ---
